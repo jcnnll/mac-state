@@ -18,4 +18,3 @@ set -e
 ./install-go.sh
 ./install-python.sh
 ./install-tpm.sh
-./install-dotfiles.sh
