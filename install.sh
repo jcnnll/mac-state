@@ -17,4 +17,5 @@ set -e
 ./install-starship.sh
 ./install-zoxide.sh
 ./install-nerdfont.sh
+./install-tpm.sh
 ./install-dotfiles.sh
